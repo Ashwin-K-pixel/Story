@@ -25,6 +25,8 @@ index d6613f5..6815f4e 100644
 -Hello there
 +omg thats not fair
 
+aliens
+
 git checkout "filename" - reverts the file to previous version
 
 git remote add origin https://github.com/Ashwin-K-pixel/Story.git - creats a remote repositary
