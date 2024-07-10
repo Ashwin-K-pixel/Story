@@ -1,0 +1,32 @@
+Hello there
+
+git init - to initialize 
+
+ls -a - to list all folders and files including hidden ones
+
+git add "filename" - The git add command adds a change in the working directory to the staging area. 
+                     It tells Git that you want to include updates to a particular file in the next commit.
+
+git status - displays the state of the working directory and the staging area.
+
+git log - displays committed snapshots.
+
+git commit -m "message to be written"
+
+git diff "fileName" - takes two input data sets and outputs the changes between them
+
+diff --git a/chapter_2.txt b/chapter_2.txt
+index d6613f5..6815f4e 100644
+--- a/chapter_2.txt
++++ b/chapter_2.txt
+@@ -1 +1,2 @@
+-Hello there
+-Hello there
+-Hello there
++omg thats not fair
+
+git checkout "filename" - reverts the file to previous version
+
+git remote add origin https://github.com/Ashwin-K-pixel/Story.git - creats a remote repositary
+
+      
